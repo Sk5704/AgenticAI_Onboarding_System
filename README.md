@@ -79,7 +79,7 @@ An end-to-end, cloud-ready banking onboarding platform that automates customer i
 
 ---
 
-## 📝 Compliance & Safety
+##  Compliance & Safety
 [cite_start]This system uses **Synthetic Data Generation** (via `faker`) for testing to ensure no real user data is exposed during the development and hackathon phases[cite: 181, 183]. [cite_start]All agent steps are logged in a `VerificationLog` for full auditability[cite: 147].
 
 [cite_start]**Team:** Developed for the Virtusa Project Implementation[cite: 1, 150].
